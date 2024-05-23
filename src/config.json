@@ -5,11 +5,11 @@
         "equipment":"https://raw.githubusercontent.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/main/data/russia_losses_equipment.json",
         "oryx":"https://raw.githubusercontent.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/main/data/russia_losses_equipment_oryx.json"
     },
-    "data_geo": "data/geo_init.json",
+    "data_geo": "src/data/geo_init.json",
     "data_content": {
-        "page_2": "data/page2.txt",
-        "page_3": "data/page3.txt",
-        "page_4": "data/page4.txt"
+        "page_2": "src/data/page2.txt",
+        "page_3": "src/data/page3.txt",
+        "page_4": "src/data/page4.txt"
    },
     "rename_columns": {
         "aircraft": "Aircrafts",
